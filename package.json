@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "day-1": "tsx src/day-1.ts"
+    "day-1": "tsx src/day-1.ts",
+    "day-2": "tsx src/day-2.ts"
   },
   "dependencies": {
     "tsx": "^4.6.2"
