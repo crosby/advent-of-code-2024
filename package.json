@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "day-1": "tsx src/day-1.ts",
-    "day-2": "tsx src/day-2.ts"
+    "day-2": "tsx src/day-2.ts",
+    "day-3": "tsx src/day-3.ts"
   },
   "dependencies": {
     "tsx": "^4.6.2"
